@@ -1,9 +1,10 @@
 {
-  "dependencies": {"dum-tpl" : "~0.0.4"},
-  "devDependencies": {
-    "gulp": "~3.4.0",
-    "through": "~2.3.4",
-    "gulp-util": "~2.2.12"
-  },
+	"version" : "0.0.1",
+  	"dependencies": {"dum-tpl" : "~0.0.4"},
+	  	"devDependencies": {
+	    "gulp": "~3.4.0",
+	    "through": "~2.3.4",
+	    "gulp-util": "~2.2.12"
+  	},
   "main": "./index.js"
 }
