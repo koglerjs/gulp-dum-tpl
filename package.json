@@ -1,28 +1,32 @@
 {
-	"name": "gulp-dum-tpl",
-	"version" : "0.0.1",
-	"homepage": "https://github.com/koglerjs/gulp-dum-tpl",
-	"licenses": [{
-		"type": "MIT",
-		"url": "https://github.com/koglerjs/gulp-dum-tpl/blob/master/LICENSE-MIT"
-	}],
-	"author": {
-		"name": "Jim Kogler",
-		"email": "koglerjs@gmail.com",
-		"url": "https://koglerjs.com"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/koglerjs/gulp-dum-tpl.git"
-	},
-	"bugs": {
-		"url": "https://github.com/koglerjs/gulp-dum-tpl/issues"
-	},
-  	"dependencies": {"dum-tpl" : "~0.0.4"},
-	  	"devDependencies": {
-	    "gulp": "~3.4.0",
-	    "through": "~2.3.4",
-	    "gulp-util": "~2.2.12"
-  	},
-  "main": "./index.js"
+    "name": "gulp-dum-tpl",
+    "version" : "0.0.1",
+    "homepage": "https://github.com/koglerjs/gulp-dum-tpl",
+    "licenses": [{
+        "type": "MIT",
+        "url": "https://github.com/koglerjs/gulp-dum-tpl/blob/master/LICENSE-MIT"
+    }],
+    "author": {
+        "name": "Jim Kogler",
+        "email": "koglerjs@gmail.com",
+        "url": "https://koglerjs.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/koglerjs/gulp-dum-tpl.git"
+    },
+    "bugs": {
+        "url": "https://github.com/koglerjs/gulp-dum-tpl/issues"
+    },
+    "dependencies": {
+        "dum-tpl" : "~0.0.4"},
+        "devDependencies": {
+        "gulp": "~3.4.0",
+        "through": "~2.3.4",
+        "gulp-util": "~2.2.12"
+    },
+    "main": "./index.js",
+    "keywords": {
+        "gulpplugin"
+    }
 }
