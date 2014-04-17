@@ -1,6 +1,7 @@
 {
 	"name": "gulp-dum-tpl",
-	"version" : "0.0.2",
+	"version" : "0.0.3",
+	"description": "A gulp plugin wrapping the DUM templating library.",
 	"homepage": "https://github.com/koglerjs/gulp-dum-tpl",
 	"licenses": [{
 		"type": "MIT",
