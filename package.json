@@ -18,7 +18,7 @@
 	"bugs": {
 		"url": "https://github.com/koglerjs/gulp-dum-tpl/issues"
 	},
-  	"dependencies": {"dum-tpl" : "~0.0.4"},
+  	"dependencies": {"dum-tpl" : "0.0.6"},
 	  	"devDependencies": {
 	    "gulp": "~3.4.0",
 	    "through": "~2.3.4",
