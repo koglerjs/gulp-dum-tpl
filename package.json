@@ -1,6 +1,6 @@
 {
 	"name": "gulp-dum-tpl",
-	"version" : "0.0.1",
+	"version" : "0.0.2",
 	"homepage": "https://github.com/koglerjs/gulp-dum-tpl",
 	"licenses": [{
 		"type": "MIT",
@@ -24,5 +24,8 @@
 	    "through": "~2.3.4",
 	    "gulp-util": "~2.2.12"
   	},
-  "main": "./index.js"
+  	"main": "./index.js",
+  	"keywords" : [
+  		"gulpplugin"
+  	]
 }
